@@ -3,22 +3,22 @@
 <suite name="Annotations">
 
 	<test name="Run Class Annotations">
-        <groups>
+        <!-- <groups>
             <run>
                 <include name="smoke"> 
                 </include>
             </run>
-        </groups>
+        </groups> -->
 		<classes>
-			<class name="DemoTestNG.ConfigurationAnnotations_1_DatePickers"> 
+			<class name="DemoTestNG.FirstAutomatedTest"> 
                 <!-- <methods> 
                     <include name="test2_JQueryDatePicker"> </include>
                 </methods> -->
             </class>
 
-			<class name="DemoTestNG.ConfigurationAnnotations_2_ListBox"> 
+			<!-- <class name="DemoTestNG.ConfigurationAnnotations_2_ListBox"> 
             
-            </class>
+            </class> -->
 		</classes>	
 	</test> 
 	
